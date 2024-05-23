@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "id": "c256c594-9bb5-4ac3-9b16-f1bb4d3a5da1",
+            "name": "chair",
+            "description": "buy 4 chairs from pepperfry",
+            "status": "todo"
+        }
+    ]
+}
